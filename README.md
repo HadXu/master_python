@@ -20,6 +20,8 @@
 	  pip install mongoengine
 	  conda install pymysql
 	  conda install anaconda  #安装anaconda中的所有包
+	  conda install scrapy
+	  
 
 还有一些其他的web开发库还没有想到，等想到就添加进去。
 
